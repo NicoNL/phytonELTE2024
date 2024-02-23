@@ -20,19 +20,28 @@ for i in range((first)):
 for i in range((first*4)+1):
     print("*",end="")
 print()
-if(first > 2):
-    for i in range(first-2):
+if(first > 3):
+    for i in range(first-1):
         for j in range(first*2):
             if(j >= first-1 and j <= first+1):
                 print("*", end=" ")
             else:
                 print(" ", end=" ")
-        print()
+        if (j > first):
+            print()
 else:
-    for i in range(first-2):
+    temp = first
+    if(temp == 1):
+        temp =2
+    for i in range(temp-1):
         for j in range(first*2):
             if(j == first):
                 print("*", end=" ")
             else:
                 print(" ", end=" ")
         print()
+for i in range((first*4)+1):
+    if(i >= (((first*4))/2)-first and i <= (((first*4))/2)+first):
+        print("*",end="")
+    else:
+        print(" ", end="")
