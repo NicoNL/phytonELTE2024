@@ -14,7 +14,7 @@ print(
 x = int(input('Enter your number: '))
 
 while( x != secret_number):
-    print("HHAAHHA MF THIS IS NOT THE NUMBER YOU'RE TRAPPED HERE")
+    print("Now you're trapped in my loop")
     x = int(input('Enter your number again: '))
 
-print("Damn bro you get it mf, you free now GG")
+print("Damn bro got it, you free now GG")
