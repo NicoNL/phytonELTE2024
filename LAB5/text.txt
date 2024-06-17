@@ -1,0 +1,3 @@
+Hello, I am Nicolas
+I study at ELTE
+Goodbye,szia!
