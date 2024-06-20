@@ -6,5 +6,5 @@ f = pd.read_csv(path)
 
 # Number of Rows X Colums
 
+#PRINT CONTENT 
 print(f)
-# 
