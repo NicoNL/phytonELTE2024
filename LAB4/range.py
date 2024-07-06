@@ -1,4 +1,4 @@
-def correctRanger(num,min,max):
+def correctRanger(num, min, max):
     try:
         int(num)
     except ValueError:
@@ -6,12 +6,12 @@ def correctRanger(num,min,max):
         return False
     if int(num) < min or int(num) > max:
         print("Error: The given number is out of the range")
-        return False;
+        return False
     else:
         return True
 
+
 x = input("Please enter a number from 1-10:\n")
 
-while not correctRanger(x,1,10):
+while not correctRanger(x, 1, 10):
     x = input("Please enter a number from 1-10:\n")
-
