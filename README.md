@@ -7,7 +7,7 @@ SDH Chat es una aplicación de comunicación interna desarrollada específicamen
 1. [Instalación](#instalación)
 2. [Uso](#uso)
 3. [Contribuciones](#contribuciones)
-4. [Licencia](#licencia)
+4. [Contacto](#contacto)
 
 ### Instalación
 
