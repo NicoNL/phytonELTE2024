@@ -1,8 +1,7 @@
 # SDH CHAT
 
 ## Descripción
-Una breve descripción del proyecto, su propósito y sus funcionalidades principales.
-SDH Chat es una aplicación de comunicación interna desarrollada específicamente para SDH Inc. Su objetivo principal es mejorar la comunicación entre los 200 empleados de la empresa, facilitando la colaboración en tiempo real y la resolución rápida de problemas.
+SDH Chat es una aplicación de comunicación interna desarrollada específicamente para SDH Inc. Su objetivo principal es mejorar la comunicación entre los empleados de la empresa, facilitando la colaboración en tiempo real y la resolución rápida de problemas.
 
 ## Tabla de Contenidos
 1. [Instalación](#instalación)
