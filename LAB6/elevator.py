@@ -22,7 +22,6 @@ class Elevator:
 
 floor_types = ['Parking', 'Shops', 'Food Court', 'Offices']
 floor_numbers = range(-1,3)
-
 el = Elevator(floor_numbers, floor_types)
 el.go_to_floor(1)
 el.go_to_floor(-2)
