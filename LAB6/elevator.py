@@ -20,7 +20,7 @@ class Elevator:
             print("There is no ", floor_number, " floor in this builder")
 
 
-floor_types = ['Parking', 'Shops', 'Food Court', 'Offices']
+floor_types = ['Parking', 'Shops', 'Food Court', 'Offices', 'Reception']
 floor_numbers = range(-1,3)
 el = Elevator(floor_numbers, floor_types)
 el.go_to_floor(1)
